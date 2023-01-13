@@ -1142,3 +1142,9 @@ section {
 .font-small{
   font-size: 15px;
 }
+.text-dark{
+  color:#444444 !important;
+}
+.contact-list{
+  list-style: none;
+}
